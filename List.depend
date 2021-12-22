@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1639108392 source:e:\debug project\c\list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stdint.h"
+	"DevicesList.h"
+	"DevicesSoftTimer.h"
+
+1636789232 e:\debug project\c\list\deviceslist.h
+	"stdint.h"
+
+1637131384 source:e:\debug project\c\list\deviceslist.c
+	"stdio.h"
+	"stdint.h"
+	"string.h"
+	"stdlib.h"
+	"DevicesList.h"
+
+1639108242 source:e:\debug project\c\list\devicessofttimer.c
+	"stdio.h"
+	"time.h"
+	"stdint.h"
+	"string.h"
+	"DevicesList.h"
+	"DevicesSoftTimer.h"
+
+1639108257 e:\debug project\c\list\devicessofttimer.h
+	"stdint.h"
+
